@@ -9,7 +9,7 @@ const page = () => {
     <div className='flex flex-col gap-y-4'>
       <div>
         <Button variant={'elevated'}>
-          I am A button
+          I am A buttons
         </Button>
       </div>
       <div>
